@@ -46,7 +46,7 @@ Best segments to target
 Best campaign type  
 ROI performance  
 
-## DEFINING ASSUMPTIONS (RBI CONTEXT)
+## Defining Assumptions (RBI CONTEXT)
 Because we don’t have real banking data, we DEFINE assumptions:
 
 High interest rate → lower spending  
