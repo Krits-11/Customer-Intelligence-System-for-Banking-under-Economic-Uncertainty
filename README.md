@@ -54,7 +54,7 @@ High inflation → higher churn
 High complaints → high risk  
 
 ## step 1:  DATA COLLECTION 
-### Objective:Build a realistic dataset that mimics how banks actually store and use customer + campaign + behavior data
+### Objective: Build a realistic dataset that mimics how banks actually store and use customer + campaign + behavior data
 ### How do banks collect data:
 CRM system → customer info  
 Transaction system → behavior  
