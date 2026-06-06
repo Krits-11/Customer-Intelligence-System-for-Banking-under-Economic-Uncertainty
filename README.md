@@ -5,14 +5,14 @@ Under RBI-driven economic conditions such as rising inflation and interest rates
 2. Poor targeting : Which customers to target?
 3. Campaign inefficiency : whhich offer works for which segment
 4. No segmentation : Treating all customers the same
-## defining analytical goals
+## Defining Analytical goals
 1. Segmentation- Group customers by Value and Behaviour
 2.  Retention-Predict which customers will churn.
 3.  Campaign Optimization-Identify which customers are most likely to respond to campaigns
 4.  Decision Engine-Recommend actions based on customer type
    " To build an analytics system that combines segmentation, churn prediction and campaign optimization to improve customer        retention and marketing efficiency."
 
-## DEFINING METRICS 
+## Defining Metrics 
  
 ### Retention metrics:
 Churn Rate  
@@ -33,7 +33,7 @@ Precision
 Recall  
 F1-score
 
-## DEFINING MODEL OUTPUTS
+## Defining Model Outputs
 
 ### For each customer:
 Segment (High / Medium / Low value)
