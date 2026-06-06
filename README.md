@@ -1,11 +1,11 @@
 # Customer-Intelligence-System-for-Banking-under-Economic-Uncertainty
 Under RBI-driven economic conditions such as rising inflation and interest rates, customer financial behavior changes significantly. I have build an analytics system to help banks identify high-value and high-risk customers, predict churn and optimize marketing campaigns through data-driven insights.
 ## step 0 : Indentify the core problems
-1. Customer churn :
+1. Customer churn 
 2. Poor targeting : Which customers to target?
 3. Campaign inefficiency : whhich offer works for which segment
 4. No segmentation : Treating all customers the same
-## defining our analytical goals
+## defining analytical goals
 1. Segmentation- Group customers by Value and Behaviour
 2.  Retention-Predict which customers will churn.
 3.  Campaign Optimization-Identify which customers are most likely to respond to campaigns
