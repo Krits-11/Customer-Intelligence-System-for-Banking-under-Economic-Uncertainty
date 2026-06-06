@@ -53,3 +53,38 @@ High interest rate → lower spending
 High inflation → higher churn  
 High complaints → high risk  
 
+## step 1:  DATA COLLECTION 
+### Objective:Build a realistic dataset that mimics how banks actually store and use customer + campaign + behavior data
+### How do banks collect data:
+CRM system → customer info  
+Transaction system → behavior  
+Marketing system → campaigns  
+External sources → economic data (RBI)
+
+### How we will collect data:
+### DATASET 1 — BANK MARKETING DATA
+age  
+job  
+education  
+marital  
+campaign (number of contacts)  
+previous (past campaigns)
+poutcome (previous result)
+y (response → yes/no)
+Use : Campaign optimization:
+
+### DATASET 2 — TELCO CHURN DATA
+tenure  
+monthly charges  
+contract type  
+internet service  
+support calls  
+churn (Yes/No)
+Use: behavior + retention dataset
+
+### DATASET 3 — RBI / ECONOMIC DATA
+interest_rate_env → (low, medium, high)
+inflation_level → (low, high)
+economic_stress_index → number
+Use : RBI decisions → customer behavior 
+
